@@ -7,3 +7,6 @@ When opening the "Vsi_tutorial.ipynb" notebook, everything should run smoothly. 
 
 - import sys
 - sys.path.insert(0,Path_to_Vsi)
+
+Please cite this as:
+Mohamed, A., Prodanović, M. Scale-Independent Rock Heterogeneity Classification Algorithm Applied to Microtomography Images. Transp Porous Med (2023). https://doi.org/10.1007/s11242-023-02008-1
