@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Mohamed, Ali
+AU  - Prodanović, Maša
+PY  - 2023
+DA  - 2023/09/02
+TI  - Scale-Independent Rock Heterogeneity Classification Algorithm Applied to Microtomography Images
+JO  - Transport in Porous Media
+AB  - Typical geological systems are composed of a broad spectrum of porous media with regionalized rock properties such as porosity or permeability varying by orders of magnitude within a volume of study. Upscaling the petrophysical rock properties is controlled by the rock pore size and type heterogeneity, which is a scale-dependent variable. At the same time, recent advances in high-resolution imaging techniques have provided a wealth of 2D and 3D datasets that reveal the microstructure of rocks and soil on scales ranging from nanometres to centimetres. However, the images can vary greatly based on the imaging technique and research objective. Automating the rock heterogeneity estimation, regardless of the type of imaged input, would greatly interest geology and engineering communities. It can save the time spent in investigating the rock fabric and evaluating the rock heterogeneity, based on expertise. Hence, it would provide a fast priori-information tool for further investigation and uncertainty analysis of geological and engineering models built on that rock. We provide an automatic scale-independent method for classifying rock heterogeneity. Our method modifies local order metrics by Torquato et al. (J Phys Math Theor 55:274003, 2022. https://doi.org/10.1088/1751-8121/ac72d7). They used synthetic, two-phase porous materials and compared the relative disorder ranking for materials with the same length scale and porosity. Our modification introduces length scale independence and was verified against three categories of benchmarks consisting of 87 geologic and synthetic 3D computed tomography (CT) datasets found on the Digital Rocks Portal (https://www.digitalrocksportal.org/). Further, the method performs better than other geostatistical heterogeneity coefficients, including Dykstra–Parsons, Lorenz, and pore heterogeneity coefficients. A sensitivity analysis has revealed significantly faster performance and greater reliability when evaluating true heterogeneity in 3D compared to the apparent heterogeneity seen when splitting 3D volume in its 2D cross section. Thus, whenever possible, 3D datasets should be used to analyze porous media. While we apply this to the images in Digital Rocks Portal in the hopes that it will ease automated curation of images in the future, the method should extend easily to any porous media images.
+SN  - 1573-1634
+UR  - https://doi.org/10.1007/s11242-023-02008-1
+DO  - 10.1007/s11242-023-02008-1
+ID  - Mohamed2023
+ER  - 
